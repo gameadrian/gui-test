@@ -107,9 +107,9 @@ local themeStyles = {
     },
     Synapse = {
         SchemeColor = Color3.fromRGB(46, 48, 43),
-        Background = Color3.fromRGB(165,42,42),
+        Background = Color3.fromRGB(60,19,33),
         Header = Color3.fromRGB(26,17,16),
-        TextColor = Color3.fromRGB(26,17,16),
+        TextColor = Color3.fromRGB(),
         ElementColor = Color3.fromRGB(24, 24, 24)
     },
     Serpent = {
@@ -117,7 +117,7 @@ local themeStyles = {
         Background = Color3.fromRGB(165,42,42),
         Header = Color3.fromRGB(22, 29, 31),
         TextColor = Color3.fromRGB(255,255,255),
-        ElementColor = Color3.fromRGB(22, 29, 31)
+        ElementColor = Color3.fromRGB(133,67,30)
     }
 }
 local oldTheme = ""
